@@ -13,4 +13,4 @@ Python 앱에서 에이전트 호출을 감싸면 같은 작업을 다시 요청
 - **[꼬물꼬물 · 호기심 숲](https://github.com/Kimuhwan/AiHackaThon_Ggomul)** — 아이가 날씨에 관해 질문을 고르고, 식물을 돌보고, 물에 뜨는 물체를 관찰합니다. 보호자는 아이가 남긴 발견을 다시 볼 수 있습니다.
 - **[전남대 공지 모아보기](https://github.com/Kimuhwan/jnu-events)** — SW중심사업단과 AICOSS의 공지를 한곳에 모았습니다. 키워드로 검색하고 게시판별로 추려볼 수 있습니다.
 
-**브라우저에서 바로 보기**　[자연의 미학 · 객실 둘러보기](https://webbasemodelhwane.vercel.app/) · [피지컬 AI 메이커 보드 · ESP32 로봇 제작 기록](https://kimuhwan.github.io/Portfolio/)
+**브라우저에서 바로 보기**　[자연의 미학 · 객실 둘러보기](https://webbasemodelhwane.vercel.app/)
